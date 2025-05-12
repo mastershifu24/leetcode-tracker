@@ -1,0 +1,7 @@
+{
+  "problems": [
+    {"id": 1, "title": "Two Sum", "difficulty": "easy", "topics": ["array"], "solved": true},
+    {"id": 2, "title": "Add Two Numbers", "difficulty": "medium", "topics": ["linked-list"], "solved": false},
+    {"id": 3, "title": "Longest Substring", "difficulty": "medium", "topics": ["sliding-window"], "solved": true}
+  ]
+}
